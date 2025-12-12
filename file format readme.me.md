@@ -1,12 +1,4 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
 
-# file format readme.me
-
-For a README file, use plain text Markdown and name it `README.md` (not `readme.me`) so platforms like GitHub detect and render it automatically.[^1]
-
-## Basic README.md structure
-
-You can follow this general format:
 
 ```markdown
 # Project Title
