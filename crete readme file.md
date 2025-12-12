@@ -1,8 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
-# crete readme file
-
-A README for this project can look like this in a `README.md` file.[^1]
 
 ***
 
